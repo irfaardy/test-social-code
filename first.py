@@ -10,7 +10,7 @@
 # for f in fruits:
 #  	print(f)
 # import mysql.connector
-a, b = 3, 5;
+a, b = 5, 10;
 c=True;
 d=False;
 if a < b:
